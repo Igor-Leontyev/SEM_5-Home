@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Sem5_Home\tas2\obj\Debug\net7.0\tas2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Sem5_Home\tas2\obj\Debug\net7.0\tas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Sem5_Home\tas2\obj\Debug\net7.0\tas2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Sem5_Home\tas2\obj\Debug\net7.0\tas2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Sem5_Home\tas2\obj\Debug\net7.0\tas2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sem5_Home\tas2\bin\Debug\net7.0\tas2.exe
+C:\Users\Admin\Desktop\Sem5_Home\tas2\bin\Debug\net7.0\tas2.deps.json
+C:\Users\Admin\Desktop\Sem5_Home\tas2\bin\Debug\net7.0\tas2.runtimeconfig.json
+C:\Users\Admin\Desktop\Sem5_Home\tas2\bin\Debug\net7.0\tas2.dll
+C:\Users\Admin\Desktop\Sem5_Home\tas2\bin\Debug\net7.0\tas2.pdb
+C:\Users\Admin\Desktop\Sem5_Home\tas2\obj\Debug\net7.0\tas2.dll
+C:\Users\Admin\Desktop\Sem5_Home\tas2\obj\Debug\net7.0\refint\tas2.dll
+C:\Users\Admin\Desktop\Sem5_Home\tas2\obj\Debug\net7.0\tas2.pdb
+C:\Users\Admin\Desktop\Sem5_Home\tas2\obj\Debug\net7.0\tas2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Sem5_Home\tas2\obj\Debug\net7.0\ref\tas2.dll
